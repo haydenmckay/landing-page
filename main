@@ -1,0 +1,9 @@
+
+# Create a new directory
+mkdir my-landing-page
+cd my-landing-page
+
+# Create initial files
+touch index.html
+touch styles.css
+
